@@ -25,6 +25,10 @@ organized? How would branches help?
 	let it be the "main" version of the program.
 
 How do the diagrams help you visualize the branch structure?
+	
+	The diagrams help me visualize the branch structure to help me understand what happens if you 
+	checkout an older commit without treating it as a branch and continuing on from there. This 
+	new "unnamed branch" can get "lost".
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
