@@ -36,7 +36,9 @@ the diagram the way we do?
 	Lines added by any of the branches are added to the merged branched, whereas lines that were 
         removed from any of the branches are not kept in the merged branched. 
 	
-
-What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
+What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
-
+	
+	Automatic merging is generally great and since git is so strict about it, there's really no 
+	con there. Manual merging is tedious but gives the user more control and reduces the chances 
+	of bugs.
