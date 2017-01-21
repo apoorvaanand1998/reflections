@@ -8,4 +8,4 @@ To learn how to share and back-up my work.
 
 ## License
 
-The MIT License
+The Unlicense
